@@ -2,9 +2,9 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-  s.name             = 'flutter_fai_umeng'
-  s.version          = '0.0.2'
-  s.summary          = '友盟统计 flutter 插件 '
+  s.name             = 'flutter_fai_upgrade'
+  s.version          = '0.0.3'
+  s.summary          = 'ddd '
   s.description      = <<-DESC
 友盟统计 flutter 插件 
                        DESC

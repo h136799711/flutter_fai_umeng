@@ -3,23 +3,23 @@ version '0.0.2'
 
 buildscript {
     repositories {
+        maven { url 'https://dl.bintray.com/umsdk/release' }
         google()
         jcenter()
         mavenCentral()
-        maven { url 'https://dl.bintray.com/umsdk/release' }
     }
 
     dependencies {
-        classpath 'com.android.tools.build:gradle:3.5.2'
+        classpath 'com.android.tools.build:gradle:3.6.3'
     }
 }
 
 rootProject.allprojects {
     repositories {
+        maven { url 'https://dl.bintray.com/umsdk/release' }
         google()
         jcenter()
         mavenCentral()
-        maven { url 'https://dl.bintray.com/umsdk/release' }
     }
 }
 

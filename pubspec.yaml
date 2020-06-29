@@ -1,11 +1,12 @@
-name: flutter_fai_umeng
-description: 友盟统计 flutter 插件 
+name: flutter_fai_upgrade
+description: do not use this plugin.
 version: 0.0.2
-homepage: https://github.com/zhaolongs/flutter_fai_umeng.git
+homepage: https://github.com/zz/flutter_fai_umeng.git
 
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.12.0 <2.0.0"
 
 dependencies:
   flutter:
